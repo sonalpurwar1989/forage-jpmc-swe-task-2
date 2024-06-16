@@ -58,7 +58,7 @@ OVERLAP = 4
 
 ################################################################################
 #
-# Test Data
+# test Data
 
 def bwalk(min, max, std):
     """ Generates a bounded random walk. """
@@ -146,7 +146,7 @@ def order_book(orders, book, stock_name):
 
 ################################################################################
 #
-# Test Data Persistence
+# test Data Persistence
 
 def generate_csv():
     """ Generate a CSV of order history. """
